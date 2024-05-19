@@ -1,2 +1,2 @@
-# Nuriah_2120008_UTS
+# Nuriah_2120008_UTS_2GB
 UTS Ujian Praktek
